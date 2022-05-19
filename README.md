@@ -1,2 +1,2 @@
-# VanillaJS-ColorPicket
+# VanillaJS-ColorPicker
 Created with CodeSandbox
